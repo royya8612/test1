@@ -1,0 +1,3 @@
+greeting = "welcome"
+
+print(greeting)
